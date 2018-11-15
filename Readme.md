@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [chart.js](./CS/MVC_app/Scripts/chart.js) (VB: [chart.js](./VB/MVC_app/Scripts/chart.js))
+* **[Index.cshtml](./CS/MVC_app/Views/Home/Index.cshtml)**
+* [_Layout.cshtml](./CS/MVC_app/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # How to draw the dxChart widget from the ChartJS library inside PageControl 
 
 
