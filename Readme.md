@@ -6,6 +6,9 @@
 * [_Layout.cshtml](./CS/MVC_app/Views/Shared/_Layout.cshtml)
 <!-- default file list end -->
 # How to draw the dxChart widget from the ChartJS library inside PageControl 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4888)**
+<!-- run online end -->
 
 
 <p>This example is an illustration of the <a href="https://www.devexpress.com/Support/Center/p/KA18850">How to draw dxChart inside a tab page container</a>. Refer to the Article for an explanation.</p><p><strong><br />
