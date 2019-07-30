@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to draw the dxChart widget from the ChartJS library inside PageControl 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4888)**
+**[[Run Online]](https://codecentral.devexpress.com/e4888/)**
 <!-- run online end -->
 
 
